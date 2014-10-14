@@ -1,0 +1,11 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "MoleculesExampleApp\\molecules_example.pbl" "";
+@end;
+@begin Objects
+ "MoleculesExampleApp\\d_nodes.srd" "MoleculesExampleApp\\molecules_example.pbl";
+ "MoleculesExampleApp\\d_links.srd" "MoleculesExampleApp\\molecules_example.pbl";
+ "MoleculesExampleApp\\w_main.srw" "MoleculesExampleApp\\molecules_example.pbl";
+ "MoleculesExampleApp\\p_molecules_example_exe.srj" "MoleculesExampleApp\\molecules_example.pbl";
+ "MoleculesExampleApp\\molecules_example.sra" "MoleculesExampleApp\\molecules_example.pbl";
+@end;

@@ -1,0 +1,18 @@
+HA$PBExportHeader$p_molecules_example_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:molecules_example.exe,,0,1,1
+CMP:0,0,0,2,0,0,1
+COM:SAP AG
+DES:SAP AG Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:molecules_example.pbl,,0
+OBJ:c:\users\siron\powerbuilder\moleculesexampleapp\molecules_example.pbl,d_nodes,d
+OBJ:C:\Users\Siron\PowerBuilder\MoleculesExampleApp\molecules_example.pbl,molecules_example,a
+OBJ:c:\users\siron\powerbuilder\moleculesexampleapp\molecules_example.pbl,w_main,w
+OBJ:c:\users\siron\powerbuilder\moleculesexampleapp\molecules_example.pbl,d_links,d

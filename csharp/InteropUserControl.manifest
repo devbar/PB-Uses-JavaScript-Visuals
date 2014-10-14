@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- You don't need to worry about anything in this file unless you're
+     using registration-free COM.
+     There should be an appropriate <clrclass> section for every InteropUserControl
+     defined in the project -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" 
+  manifestVersion="1.0">
+<assemblyIdentity
+            type="win32"
+            name="ComInteropWebbrowser"
+            version="1.0.0.0" />
+<clrClass
+            clsid="29D72998-8734-4ACA-AD5D-EF4E566FA6B4"
+            progid="ComInteropWebbrowser.InteropUserControl"
+            threadingModel="Both"
+            name="ComInteropWebbrowser.InteropUserControl" >
+</clrClass>
+</assembly>
